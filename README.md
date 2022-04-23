@@ -6,5 +6,5 @@ To develop this, I have used: </br> </br>
 2. Hilt Dependency Injection
 3. Coroutines Flow
 4. Room Database
-5. Coil library for image fecth/cache mechanism
-6. Ofcourse, Jetpack Compose :)
+5. Coil library for image fetch/cache mechanism
+6. Of-course, Jetpack Compose :)
